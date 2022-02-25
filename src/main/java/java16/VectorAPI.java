@@ -1,6 +1,5 @@
 package java16;
 
-import jdk.incubator.vector.IntVector;
 
 import java.util.stream.Stream;
 
@@ -9,6 +8,7 @@ import java.util.stream.Stream;
  */
 public class VectorAPI {
 
+    /*
     // Example : this program will calculate the result of multiplying two arrays
     // without going through the arrays
     public static void main(String[] args) {
@@ -27,4 +27,6 @@ public class VectorAPI {
         Stream.of(c)
                 .forEach(System.out::println);
     }
+
+     */
 }
